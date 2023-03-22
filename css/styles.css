@@ -1,0 +1,58 @@
+
+h1{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 3rem;
+}
+
+h3{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding:0.5rem;
+  font-size: 2rem;
+}
+
+body{
+  font-family: montserrat;
+  font-size: 1.2rem;
+  text-align: center;
+  align-items: center;
+}
+
+#main{
+ background-image: url('../images/hd-wallpaper-2005066_1920.jpg');
+ max-width: 100%;
+} 
+
+.headline img{
+  padding-top: 3rem;
+  max-width: 18%;
+}
+
+.body input[type=text]{
+  align-items: center;
+  width: 95%;
+  padding: 1rem 0;
+  border: 1px solid #BFBFBF ;
+}
+
+.body button {
+  background-color: #5b3333;
+  width: 95%;
+  margin-top: 1.8rem;
+  padding: 1rem;
+  cursor: pointer;
+  color: white;
+}
+
+.body button:hover {
+  background-color: #000000;
+}
+
+.footer {
+  align-items: center;
+  padding: 1rem;
+}
+
+.footer img {
+  padding-right: 2.5rem;
+  max-width: 3rem;
+}
